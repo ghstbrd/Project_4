@@ -2,7 +2,7 @@
 
 1️⃣ Rent vs Buy Cost Comparison
 - Homeownership costs are consistently higher than renting due to mortgage, property taxes, and maintenance costs.
-- Renters save an average of $X per month compared to homeowners (varies by location and market trends).
+- Renters save an average of $1700-1900 per month compared to homeowners (varies by location and market trends).
 - The financial break-even point (where buying becomes cheaper) often takes X years.
 
 2️⃣ Investment Returns – What If Renters Invest Their Savings?
