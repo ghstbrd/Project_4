@@ -3,21 +3,20 @@
 1️⃣ Rent vs Buy Cost Comparison
 - Homeownership costs are consistently higher than renting due to mortgage, property taxes, and maintenance costs.
 - Renters save an average of $1700-1900 per month compared to homeowners (varies by location and market trends).
-- The financial break-even point (where buying becomes cheaper) often takes X years.
 
 2️⃣ Investment Returns – What If Renters Invest Their Savings?
 If renters invest their monthly savings instead of buying:
-  - Assuming an average 7% annual return on investments, renters accumulate $X over 10 years.
+  - If the renter was able to invest $1000 of the difference per month for 10 years at 7%, it could yield $174,000.
   - Buying only becomes advantageous if home appreciation outpaces investment returns.
 
 3️⃣ Trend Analysis – How Has Rent vs Buy Changed Over Time?
-- Historical data shows home prices have increased by X% over the last Y years.
-- Rent has increased at a slower rate (X% per year) compared to home prices.
+- Historical data shows home prices have increased 43.6% over the last ten years.
+- Rent has increased at a slower rate compared to home prices.
 - In recent years, higher interest rates have made homeownership less affordable.
 
 4️⃣ Future Cost Forecasting (Next 12 Months)
 Advanced ML models (XGBoost, Random Forest) predict:
-  - Rent will increase by X% over the next year.
+  - Rent will slightly decrease by 1.4% over the next year.
   - Homeownership costs will rise due to increasing mortgage rates and taxes.
   - The rent vs buy gap is expected to widen, making renting more favorable in the short term.
 
